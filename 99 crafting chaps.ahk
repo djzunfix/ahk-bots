@@ -95,43 +95,7 @@ If (log = 0x24251F)
 	sleep a1
 	click
 	sleep a4
-	
-	Send {l}
-	sleep a1
-	Send {o}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {1}
-	sleep a1
-	Send {2}
-	sleep a1
-	Send {3}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {o}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {1}
-	sleep a1
-	Send {2}
-	sleep a1
-	Send {3}
-	sleep a1
-	Send {x}
-	sleep a1
-	Send {d}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {o}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {Enter}
-	sleep a5
+	///// Forgot to write this part\\\\\\\
 
 	Mousemove, cx, cy, 8
 	sleep a5
