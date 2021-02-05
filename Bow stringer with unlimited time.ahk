@@ -146,42 +146,7 @@ if now > 18000000
 	click
 	sleep a4
 	
-	Send {l}
-	sleep a1
-	Send {o}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {1}
-	sleep a1
-	Send {2}
-	sleep a1
-	Send {3}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {o}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {1}
-	sleep a1
-	Send {2}
-	sleep a1
-	Send {3}
-	sleep a1
-	Send {x}
-	sleep a1
-	Send {d}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {o}
-	sleep a1
-	Send {l}
-	sleep a1
-	Send {Enter}
-	sleep a5
+; This used to be my password
 
 	Mousemove, cx, cy, 3
 	sleep a5
