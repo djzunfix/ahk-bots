@@ -1,4 +1,7 @@
-
+;To-do.
+;1. Algorithm for calculating distances between blocks (84 pixels on x axis)
+;2. Add a button for setting your coordinates (Including your fist)
+;3. Cleaning this mess up.
 Gui, Add, Button, x10 y15 vChand, Chands
 Gui, Add, Button, x10 y45 vLgrid, Lgrid
 Gui, Add, Button, x120 y30 vKill, Killswitch
